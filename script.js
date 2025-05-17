@@ -1,4 +1,4 @@
 const spinner = document.querySelector('.spinner');
-setTimeout(() => {
+/*setTimeout(() => {
   spinner.style.animationPlayState = 'paused';
-}, 5000);
+}, 5000);*/
